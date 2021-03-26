@@ -1,0 +1,9 @@
+comandos de inicio
+descargar anydesk
+   wget https://download.anydesk.com/rpi/anydesk_6.1.0-1_armhf.deb 
+instalar anydesk
+   sudo dpkg -i anydesk_6.1.0-1_armhf.deb
+instalar del script de python dependencias
+	python setup.py install
+iniciar un script 
+para ejecutar el anydesk y el script main.py 1 vez al dia todos los dias

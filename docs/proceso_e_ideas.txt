@@ -1,0 +1,41 @@
+servidor de jisti (en la raspberry pi o servidor de la casa)
+microfono
+computador para conectar todo
+
+opcional 
+pantalla 
+camara para ver el garaje
+2da camara para vista externa
+
+inspiracion de las reuniones virtuales de noisebridge
+problema por proveedor de internet  
+alternativa servidor jisti 
+
+un script que genere una reunion (en un servidor externo)
+
+proceso
+1 humano genera pide una reunion 
+¿como?
+puede ser en el wiki o en unloquer.org o un bot de telegram
+añadir cuando la reunion , fecha y hora o inicio inmediato
+
+2 entrega el link a la reunion (no puede publicar en las paginas)
+queda la rpi sola , no hay enlace y se sale de la reunion
+ 
+ideas que se pueden usar en este proposito
+alfred camera
+
+configuracion remota
+vnc o any desk para activar la camara o debuguiar algo
+
+programas adicionales 
+
+google chrome (para acceder a la reunion)
+anydesk
+
+links de interes
+
+https://github.com/utkrixx/Google-Meet-automation-with-Python
+https://github.com/EbenKouao/pi-camera-stream-flask
+https://anydesk.com/en/downloads/raspberry-pi
+https://www.golinuxcloud.com/create-schedule-cron-job-shell-script-linux/

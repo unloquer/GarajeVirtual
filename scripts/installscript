@@ -1,0 +1,5 @@
+#! /bin/bash
+wget https://download.anydesk.com/rpi/anydesk_6.1.0-1_armhf.deb 
+sudo dpkg -i anydesk_6.1.0-1_armhf.deb
+python ../setup.py install
+
