@@ -39,3 +39,4 @@ https://github.com/utkrixx/Google-Meet-automation-with-Python
 https://github.com/EbenKouao/pi-camera-stream-flask
 https://anydesk.com/en/downloads/raspberry-pi
 https://www.golinuxcloud.com/create-schedule-cron-job-shell-script-linux/
+https://tutorials-raspberrypi.com/google-chrome-for-raspberry-pi/

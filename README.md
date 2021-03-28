@@ -39,7 +39,7 @@ clone repo
 
 	 git clone https://github.com/unloquer/GarajeVirtual.git
 
-run if you wanna install with anydesk
+run if you wanna install with anydesk and google chorme (google chorme  is nessary )
 
 	bash scripts/installscript
 
