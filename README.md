@@ -47,6 +47,6 @@ run if you  dont need anydesk
 	
 	python setup.py install
 # screenshots
-(bot)[https://wiki.unloquer.org/_media/personas/2021-05-04-210311_672x255_scrot.png]
+[bot](https://wiki.unloquer.org/_media/personas/2021-05-04-210311_672x255_scrot.png)
 
 # you can be frist to test this ;-)
