@@ -1,6 +1,6 @@
 # GarajeVirtual
-GarajeVirtual is script for generate a virtual meeting to linking the physical space with virtual space 
-adding participation of the physical space
+GarajeVirtual is script for interact with a virtual meeting to linking the physical space with virtual space 
+adding participation of the physical space via a telegram bot and an email account.
 
 is to not depend on asking for a meeting with those who are there, it is a greater independence and greater participation. 
 
@@ -46,5 +46,7 @@ run if you wanna install with anydesk and google chorme (google chorme  is nessa
 run if you  dont need anydesk
 	
 	python setup.py install
+# screenshots
+(bot)[https://wiki.unloquer.org/_media/personas/2021-05-04-210311_672x255_scrot.png]
 
 # you can be frist to test this ;-)
